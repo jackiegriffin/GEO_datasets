@@ -1,4 +1,4 @@
-# GEO_AKR1C3
+# GEO_datasets
 
 Pre-clinical data: AKR1C3 top hit upregulated in ER+ bone metastases.
 Objective: Mine literature to validate this phenotype in clinical ER+ breast cancer metastatic tumors
